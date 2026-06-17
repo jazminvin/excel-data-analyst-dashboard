@@ -4,6 +4,8 @@
 An Excel dashboard analyzing 7,800+ U.S. data analyst job postings 
 from 2020–2025.
 
+![Dashboard Preview](Data Analyst Dashboard.png)
+
 ## Key Findings
 - Entry-level data analysts average $94K in the U.S.
 - Salaries peaked in 2022 at $115K
